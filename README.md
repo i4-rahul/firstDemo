@@ -1,5 +1,5 @@
 # firstDemo
 <pre>
   this is my first repository
-  Author: Rahul Prajapati
+  Author: honey singh from batinda 
 </pre>
